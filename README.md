@@ -21,3 +21,8 @@ The database comprises 12 interconnected tables, each representing distinct face
 8. Return all the track names that have a song length longer than the average song length. Return the Name and Milliseconds for each track. Order by the song length with the longest songs listed first
 9. Find how much amount spent by each customer on artists? Write a query to return customer name, artist name and total spent
 10. Write a query that determines the customer that has spent the most on music for each country. Write a query that returns the country along with the top customer and how much they spent. For countries where the top amount spent is shared, provide all customers who spent this amount
+
+
+TO SEE THE COMPREHENSIVE DETAILS KINDLY GO THROUGH THE .SQL FILE.
+
+THANK YOU
